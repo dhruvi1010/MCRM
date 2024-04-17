@@ -1,9 +1,9 @@
-# MCRM
+# MCRM - **Modeling and Control of Robotic Manipulator**
 MCRM Project
 
 **Robot Motion Control**
 
-**Modeling and Control of Robotic Manipulator**
+**ROS-Controlled Robotic Arm Motion Planning and Simulation with MATLAB**
 
 The project aims to develop a robust control system for a UR robotic arm using MATLAB and ROS, focusing on precise trajectory planning and execution. Through the integration of inverse kinematics, simulation in Gazebo, and communication with ROS, the system will enable users to specify end-effector poses and execute smooth motions while monitoring real-time joint states and velocities. By incorporating both topic-based and action-based interfaces, the project seeks to provide a comprehensive solution for controlling and simulating robotic arm movements, with applications in research, automation, and industrial settings.
 
