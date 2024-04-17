@@ -1,4 +1,4 @@
-# MCRM - **Modeling and Control of Robotic Manipulator**
+# MCRM - **Modeling and Control of Robotic Manipulators**
 MCRM Project
 
 **Robot Motion Control**
