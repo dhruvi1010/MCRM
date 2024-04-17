@@ -1,5 +1,5 @@
 # MCRM
-MCRM Project - Robotic arm
+MCRM Project
 
 **Robot Motion Control**
 
