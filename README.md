@@ -1,3 +1,4 @@
+# Due to university intellectual property restrictions and data privacy policies, the code for this project cannot be uploaded to a public GitHub repository.
 # MCRM - **Modeling and Control of Robotic Manipulators**
 MCRM Project
 
